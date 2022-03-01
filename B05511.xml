@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proclamation anent the collectors of the pole-money and other points relating thereto.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05511</idno>
+            <idno type="STC">Wing S1657</idno>
+            <idno type="STC">ESTC R183379</idno>
+            <idno type="EEBO-CITATION">52528939</idno>
+            <idno type="OCLC">ocm 52528939</idno>
+            <idno type="VID">178996</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05511)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178996)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2775:67)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proclamation anent the collectors of the pole-money and other points relating thereto.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1694-1702 : William II)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson, Printer to the King's most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated: Given under Our Signet at Edinburgh the fifteenth day of December, and of Our Reign the tenth year 1698.</note>
+                  <note>Signed: Gilb. Eliot. Cls. Sti. Concilii.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poll tax --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Tax collection --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:178996:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>
+               <hi>PROCLAMATION</hi>
+               <lb/>
+Anent the Collectors of the <hi>Pole-money,</hi> and other Points relating thereto.</head>
+            <opener>
+               <signed>
+                  <hi>WILLIAM</hi> by the Grace of GOD, King of <hi>Great-Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith,</signed>
+               <salute>To  <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>  Macers of Our Privvy Council, Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally ſpecially conſtitute, Greeting;</salute>
+            </opener>
+            <p>
+               <hi>Forasmuchas,</hi> the Pole money for two years granted to Us by the 12, and 25th. Acts of the laſt Seſſion of Our current Parliament, is ſet in Tack, and fermed with the be<g ref="char:EOLhyphen"/>nefite of the Acts of Parliament impoſing the ſame; And conſidering that the time of payment of the ſaid firſt years Pole-money, does now approach and draw near, and that ſundry of Our Leidges by Negligence or otherways, may be obnoxious and in hazard of incurring the Penalty contained in the foreſaid Act of Parliament, if they ſhall not make due and punctual payment of their reſpective Pole-money, in manner, and within the time therein prefixt, to ſuch Collectors, and at ſuch places as ſhall be appointed for that effect. For preventing of which In<g ref="char:EOLhyphen"/>conveniency, and that none may pretend Ignorance; We with Advice of the Lords of Our privy Council, hereby Require and Com<g ref="char:EOLhyphen"/>mand the Sheriffs of the ſeveral Shires within this Kingdom, and their Deputes, to cauſe Intimation be made at the ſeveral paroch Kirk-Doors within this Kingdom, after the Forenoons Sermon, upon the laſt Lords Day of this current Month of <hi>December,</hi> to all Our Leidges lyable in payment of Pole-money, that without faill they make payment of the Sums of Money wherein they are lyable as Pole-money to the Collect<g ref="char:EOLhyphen"/>ors of our Ceſs and Supplie, within the ſeveral Shires <hi>reſpective,</hi> at the Head-burgh of the ſaid Shire, upon the firſt day of <hi>January</hi> next to come, or within thirty days thereafter, certifying ſuch as ſhall not make punctual payment at the ſaid firſt day of <hi>January,</hi> or within the ſaid thirty days thereafter, they ſhall be lyable in the double, if paying within other thirty days thereafter; Or if failȝeing after both the ſaids thirty days, in the Quadruple of their Pole. And We with Advice foreſaid, Require and Command the Commiſſioners of Supplie and Aſ<g ref="char:EOLhyphen"/>ſeſſment within the ſeveral Shires of this Kingdom, to meet and conveen betwixt and the firſt day of <hi>January</hi> next to come, at their or<g ref="char:EOLhyphen"/>dinary place of Meeting, and there to Call and Conveen before them the Collectors of the Ceſs and Supplie within their reſpective Shires, and require them within eight days after the ſaid Meeting, to find the ſame Soverty and Caution, or ſuch other alſe ſufficient Caution for whom they ſhall be anſwerable, for their faithfull collecting of the foreſaid Pole-money conform to the Books and Liſts to be given to them by our ſaids Farmers, of the poleable Perſons within the ſaid reſpective Shires; and that they ſhall make good faithfull and timeous pay<g ref="char:EOLhyphen"/>ment of the ſaid Pole-money, and of what ſhall be uplifted and collected by them of the ſame any manner of way, to <hi>William Cochran</hi> of <hi>Ferguſly</hi> Farmer of the ſaid Pole-Money, or any having his Order, and that at the end of each thirty Days of grace given by the Act of Parliament, and with a liſt of the particular payments made in each of the ſaid thirty Days, ſubſcribed by the ſaids Collectors, and to be by them given in to the ſaid <hi>William Cochran</hi> of <hi>Ferguſlie</hi> and his foreſaids; Certifying the ſaids Collectors of Ceſs and Supplie, who ſhall fail to find Caution for the effect foreſaid within the time above-prefixt, they ſhall <hi>ipſo facto</hi> ceaſe to be Collectors of our Ceſs and Supplie, and ſhall beutterly incapable to be continued any longer in the ſaid Office; But the ſaids Commiſſioners of Ceſs and Supply, are hereby Authorized, &amp; required immediatly after the elapſing of the foreſaids Days, to meet and make choiſe of, nominate and appoint ſome other ſufficient and reſponſal perſon to be Collector of the Ceſs and Supplie within their Shire, and of the Pole-money impoſed by the foreſaid Act of Parlia<g ref="char:EOLhyphen"/>ment, who ſhall find good and ſufficient Caution in manner foreſaid not only for collecting our Ceſs and Supplie, but for the effectual collecting and paying in the foreſaid Pole-money to the ſaid <hi>William Cochran</hi> Fermer thereof, in manner above-mentioned: And We with Advice foreſaid, Require and Command the ſaids Collectors, finding Caution in manner foreſaid, to give their Attendance at the Head-burghs of the ſeveral Shires, from and after the firſt day of <hi>January</hi> next to come, for Collecting, Receiving and uplifting the ſaid Pole-money, in the ſame way and manner that they give their Attendance for receiving the Ceſs and Supplie, and that during the two Months of <hi>January</hi> and <hi>February</hi> next to come, and to grant Diſcharges <hi>gratis,</hi> but always of true Dates to the ſeveral perſons concerned, upon pay<g ref="char:EOLhyphen"/>ment of the Pole-money, expreſſing the Sums payed by them and the ſaids ſeveral Collectors of Supplie within the ſeveral Shires, are hereby allowed to retain in their own Hands One <hi>per Cent</hi> of the whole Pole-money collected and uplifted by them within their reſpective Shires, for their Pains and Travel in the Premiſſes: And We with Advice foreſaid, Require and Command all perſons lyable in Pole-money, to make due and punctual payment thereof at the Head-Burghs of th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeveral Shires, to ſuch perſons who ſhall be Collectors of Supplie within the ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>men, after the firſt of <hi>January</hi> next to come, under the Pains contained in the ſaid Act of Parliament, and herein expreſt, and the Diſcharges to be granted by the ſaids Collectors in manner above-mentioned, ſhall be als ſufficient to the Receivers thereof, as if the ſamen had been granted by the ſaid <hi>William Cochran</hi> of <hi>Ferguſlie</hi> Our Fermer himſelf. OUR WILL IS HEREFORE, and We charge you ſtrictly and Command, that incontinent theſe Our Letters ſeen, ye paſs to the Mercat-Croſs of <hi>Edinburgh,</hi> and remanent Mercat-croſſes of the haill Head-burghs o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſeveral Shires and Stewartries within this Kingdom, and there in our Name and Authority make Publication here of, and We ordain our Solicitor to tranſmit a ſufficient Number of printed Copies hereof to the Sheriffs of the ſeveral Shires, Stewarts of Stewartries, to be by them ſent to the Miniſters of the ſeveral Paroches within their Bounds to be publiſhed after Divine Service in the Forenoon upon the ſaid laſt Lords day of <hi>December</hi> current. And ordains theſe preſents to be printed and publiſhed, that none may pretend Ignorance.</p>
+            <closer>
+               <dateline>Given under our Signet at <hi>Edinburgh</hi> 
+                  <date>the fifteenth day of December, and of Our Reign the Tenth year 1698.</date>
+               </dateline>
+               <signed>Per Actum Dominorum Secreti Concili.
+<hi>GILB. ELIOT.</hi> Cls. Sti. Concilii.</signed>
+               <lb/>
+God Save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi> Printer to the King's moſt Excellent Majeſty, <hi>Anno Dom.</hi> 1698.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
